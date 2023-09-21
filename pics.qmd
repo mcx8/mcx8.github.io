@@ -1,0 +1,9 @@
+## bugs & other outdoorsy things
+
+::: {layout-ncol="3"}
+![**9/19/2023** A Queen butterfly (*Danaus gillipus*) snacking on some flower outside the University of Arizona Health Sciences Library. And no I don't know what flower that is at the moment.](images/IMG_7969.jpg)
+
+![**9/16/2023** I think my boyfriend takes very nice pictures so I will include this very cool bee he sent me as well. Maybe it's a wasp though, who knows. (It really is actually a Yellowjacket though, *Vespula* or *Dolichovespula* spp.)](images/IMG_0957.jpg)
+
+![**8/20/2023** One of Arizona's many sunsets! More commonly observed during the summer monsoon season when mother nature takes a look at your oven and wonders what it feels like in there. Also because of certain atmospheric conditions.](images/IMG_7569.jpg)
+:::

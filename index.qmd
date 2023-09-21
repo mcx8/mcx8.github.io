@@ -1,11 +1,42 @@
 ---
-title: "mcx8.github.io"
+title: "Terese Maxine P. Cruz"
+subtitle: "Postgraduate Researcher | University of Arizona"
+image: images/mc_pic.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 25em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto::tmcruz@arizona.edu
+    - text: Github
+      icon: github
+      href: https://github.com/mcx8
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/maxine-cruz-0953341b9/
 ---
 
-This is a Quarto website.
+::: column-page
+![](images/IMG_6952.jpg)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## hi there!
 
-```{r}
-1 + 1
-```
+This is a website about myself by myself. Not sure how you got here but it is still in the making as you will see. Also proof I can definitely make a website with Quarto, which will be needed later :)
+
+------------------------------------------------------------------------
+
+## education
+
+**B.S. Ecology & Evolutionary Biology (minor: Mathematics)**
+
+University of Arizona, Tucson, AZ \| May 2023
+
+------------------------------------------------------------------------
+
+## background
+
+I have had the opportunity to work in various field, lab, and computer-oriented jobs, which has given me a broad background in research methods and work atmospheres. I have especially enjoyed research in Integrated Pest Management (IPM), ecological modeling, and those that required knowledge of programming in R/RStudio. \[Continue sounding like I'm selling my soul\].
+:::

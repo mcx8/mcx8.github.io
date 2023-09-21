@@ -1,0 +1,17 @@
+---
+title: "Test Post"
+description: "This is here for my own records, but feel free to look inside!"
+author:
+  - name: Maxine Cruz
+date: 09-20-2023
+categories:
+  - Other
+image: IMG_3578.jpg
+title-block-banner: true
+title-block-banner-color: "#FFEBCD"
+draft: false
+---
+
+### welcome to what is basically the scratch paper of my posts
+
+In here will be the most random contents, there is nothing yet but there will be.

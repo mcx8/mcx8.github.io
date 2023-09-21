@@ -1,0 +1,12 @@
+## projects & related works
+
+---
+listing: 
+  contents: posts # All documents in /posts will be included
+  type: grid # Has other options
+  sort: "date desc" # Can also sort for more than one field
+  categories: true
+  
+  # Note to self: Remember to format posts as YYYY-MM-DD-short-post-description
+  # Just to stay organized
+---

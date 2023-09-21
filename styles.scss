@@ -1,0 +1,68 @@
+/*-- scss:defaults --*/
+
+// Fonts
+
+// Zen Maru Gothic
+// Dawning of a New Day
+// Croissant One
+// Oooh Baby
+
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Dawning+of+a+New+Day&family=Oooh+Baby&family=Zen+Maru+Gothic&display=swap');
+
+// Colors
+$blanched-almond: #FFEBCD;
+$cornflower-blue: #6495ED;
+$dark-blue: #1E4557;
+$darkest-blue: #0F222B;
+$dark-cyan: #008B8B;
+$dark-olive-green: #39471F;
+$lavender: #5D518A;
+$magenta: #8A1665;
+$olive: #55733D;
+$slate-grey: #C6E2FF;
+
+// Base document colors
+$navbar-bg: $olive; // navbar (bar at top of page)
+$navbar-fg: $blanched-almond; // navbar foreground (text, etc.)
+$navbar-hl: $slate-grey; // when you hover over navbar stuff
+$link-color: $cornflower-blue; // when you hover over buttons
+
+
+
+
+/*-- scss:rules --*/
+
+// Title, specifically (a.k.a. h1)
+.title {
+  font-family: "Dawning of a New Day";
+  font-size: 40px;
+}
+
+// Headers
+h1, h2, h3 {
+  font-family: "Oooh Baby";
+  font-size: 40px;
+  color: $dark-blue;
+}
+
+// Navbar
+.navbar {
+  font-family: "Zen Maru Gothic";
+}
+
+// Body
+body {
+  color: $darkest-blue;
+}
+
+// Buttons (e.g. home buttons for email, Github, and Linkedin)
+div.quarto-about-trestles .about-entity .about-link {
+  color: $magenta;
+}
+
+// Hovering over buttons
+a:hover {
+  font-weight: 700;
+}
+
+

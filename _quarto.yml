@@ -3,18 +3,36 @@ project:
   output-dir: docs
 
 website:
-  title: "mcx8.github.io"
+  title: "Maxine Cruz"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: TMCruz_CV.pdf
+        icon: file-earmark-text
+        text: CV
+      - href: posts.qmd
+        icon: easel
+        text: Projects
+      - href: pics.qmd
+        icon: bug
+        text: Critter Pics
+  page-footer: 
+    background: $olive
+    foreground: $blanched-almond
+    left: "Copyright 2023, Maxine Cruz"
+    right: 
+      - href: https://quarto.org/
+        text: "Made with Quarto"
+      - href: https://github.com/mcx8/mcx8.github.io
+        icon: github
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme:
+      - styles.scss
+    mainfont: "Zen Maru Gothic"
+    page-layout: full
 
 editor: visual
 

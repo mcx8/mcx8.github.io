@@ -1,16 +1,65 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "mcx8.github.io",
+    "objectID": "pics.html",
+    "href": "pics.html",
+    "title": "Maxine Cruz",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "9/19/2023 A Queen butterfly (Danaus gillipus) snacking on some flower outside the University of Arizona Health Sciences Library. And no I don’t know what flower that is at the moment.\n\n\n\n\n\n\n\n9/16/2023 I think my boyfriend takes very nice pictures so I will include this very cool bee he sent me as well. Maybe it’s a wasp though, who knows. (It really is actually a Yellowjacket though, Vespula or Dolichovespula spp.)\n\n\n\n\n\n\n\n8/20/2023 One of Arizona’s many sunsets! More commonly observed during the summer monsoon season when mother nature takes a look at your oven and wonders what it feels like in there. Also because of certain atmospheric conditions."
+  },
+  {
+    "objectID": "pics.html#bugs-other-outdoorsy-things",
+    "href": "pics.html#bugs-other-outdoorsy-things",
+    "title": "Maxine Cruz",
+    "section": "",
+    "text": "9/19/2023 A Queen butterfly (Danaus gillipus) snacking on some flower outside the University of Arizona Health Sciences Library. And no I don’t know what flower that is at the moment.\n\n\n\n\n\n\n\n9/16/2023 I think my boyfriend takes very nice pictures so I will include this very cool bee he sent me as well. Maybe it’s a wasp though, who knows. (It really is actually a Yellowjacket though, Vespula or Dolichovespula spp.)\n\n\n\n\n\n\n\n8/20/2023 One of Arizona’s many sunsets! More commonly observed during the summer monsoon season when mother nature takes a look at your oven and wonders what it feels like in there. Also because of certain atmospheric conditions."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Maxine Cruz",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Project history in here"
+  },
+  {
+    "objectID": "about.html#projects-related-works",
+    "href": "about.html#projects-related-works",
+    "title": "Maxine Cruz",
+    "section": "",
+    "text": "Project history in here"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Terese Maxine P. Cruz",
+    "section": "",
+    "text": "This is a website about myself by myself. Not sure how you got here but it is still in the making as you will see. Also proof I can definitely make a website with Quarto, which will be needed later :)\n\n\n\n\nB.S. Ecology & Evolutionary Biology (minor: Mathematics)\nUniversity of Arizona, Tucson, AZ | May 2023\n\n\n\n\nI have had the opportunity to work in various field, lab, and computer-oriented jobs, which has given me a broad background in research methods and work atmospheres. I have especially enjoyed research in Integrated Pest Management (IPM), ecological modeling, and those that required knowledge of programming in R/RStudio. [Continue sounding like I’m selling my soul]."
+  },
+  {
+    "objectID": "index.html#hi-there",
+    "href": "index.html#hi-there",
+    "title": "Terese Maxine P. Cruz",
+    "section": "",
+    "text": "This is a website about myself by myself. Not sure how you got here but it is still in the making as you will see. Also proof I can definitely make a website with Quarto, which will be needed later :)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Terese Maxine P. Cruz",
+    "section": "",
+    "text": "B.S. Ecology & Evolutionary Biology (minor: Mathematics)\nUniversity of Arizona, Tucson, AZ | May 2023"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Terese Maxine P. Cruz",
+    "section": "",
+    "text": "I have had the opportunity to work in various field, lab, and computer-oriented jobs, which has given me a broad background in research methods and work atmospheres. I have especially enjoyed research in Integrated Pest Management (IPM), ecological modeling, and those that required knowledge of programming in R/RStudio. [Continue sounding like I’m selling my soul]."
+  },
+  {
+    "objectID": "posts/2023-09-20-test-post/index.html",
+    "href": "posts/2023-09-20-test-post/index.html",
+    "title": "Test Post",
+    "section": "",
+    "text": "welcome to what is basically the scratch paper of my posts\nIn here will be the most random contents, there is nothing yet but there will be."
   }
 ]
