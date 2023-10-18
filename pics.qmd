@@ -1,6 +1,6 @@
 ## bugs & other outdoorsy things
 
-::: {layout-ncol="3"}
+::: {layout-ncol="3" layout-nrow="2"}
 ![**10/12/2023** Ethan actually does take very cool bee pictures. This little one (which is the western honey bee, *Apis mellifera*) is drinking from a fountain. You can't see it but the fountain is a sculpture of a head.](images/IMG_3168.jpg)
 
 ![**10/12/2023** We went to Tohono Chul and it was a wonderful time :) There were a lot of round-ish cacti (as you can see here) and cute little areas scattered around. Questionably warm outside for October though.](images/IMG_8649.jpg)
