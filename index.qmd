@@ -24,7 +24,7 @@ about:
 
 ## hi there!
 
-This is a website about myself by myself. Not sure how you got here but it is still in the making as you will see. Also proof I can definitely make a website with Quarto, which will be needed later :)
+This is a website about myself by myself. Not sure how you got here but it is still in the making as you will see.
 
 ------------------------------------------------------------------------
 
@@ -38,5 +38,6 @@ University of Arizona, Tucson, AZ \| May 2023
 
 ## background
 
-I have had the opportunity to work in various field, lab, and computer-oriented jobs, which has given me a broad background in research methods and work atmospheres. I have especially enjoyed research in Integrated Pest Management (IPM), ecological modeling, and those that required knowledge of programming in R/RStudio. \[Continue sounding like I'm selling my soul\].
+I have had the opportunity to work in various field, lab, and computer-oriented jobs, which has given me a broad background in research methods and work atmospheres. I have especially enjoyed research in Integrated Pest Management (IPM), ecological modeling, and those that required knowledge of programming in R/RStudio. 
+
 :::
