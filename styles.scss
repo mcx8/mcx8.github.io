@@ -2,12 +2,10 @@
 
 // Fonts
 
+// Zen Antique
 // Zen Maru Gothic
-// Dawning of a New Day
-// Croissant One
-// Oooh Baby
 
-@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Dawning+of+a+New+Day&family=Oooh+Baby&family=Zen+Maru+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&family=Zen+Maru+Gothic&display=swap');
 
 // Colors
 $blanched-almond: #FFEBCD;
@@ -34,13 +32,13 @@ $link-color: $cornflower-blue; // when you hover over buttons
 
 // Title, specifically (a.k.a. h1)
 .title {
-  font-family: "Dawning of a New Day";
+  font-family: "Zen Antique";
   font-size: 40px;
 }
 
 // Headers
 h1, h2, h3 {
-  font-family: "Oooh Baby";
+  font-family: "Zen Antique";
   font-size: 40px;
   color: $dark-blue;
 }

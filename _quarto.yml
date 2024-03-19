@@ -1,10 +1,14 @@
 project:
+
   type: website
   output-dir: docs
 
 website:
+
   title: "Maxine Cruz"
+  
   navbar:
+    search: false
     left:
       - href: index.qmd
         text: Home
@@ -16,7 +20,15 @@ website:
         text: Projects
       - href: pics.qmd
         icon: bug
-        text: Critter Pics
+        text: Bug Content & Whatnot
+        
+  sidebar: 
+    - title: Bug Content & Whatnot
+      style: docked
+      contents: 
+        - pics.qmd
+        - travel.qmd
+      
   page-footer: 
     background: $olive
     foreground: $blanched-almond
@@ -28,6 +40,7 @@ website:
         icon: github
 
 format:
+
   html:
     theme:
       - styles.scss

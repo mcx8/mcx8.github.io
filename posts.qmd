@@ -9,4 +9,6 @@ listing:
   
   # Note to self: Remember to format posts as YYYY-MM-DD-short-post-description
   # Just to stay organized
+
+sidebar: false
 ---
