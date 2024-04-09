@@ -18,16 +18,9 @@ website:
       - href: posts.qmd
         icon: easel
         text: Projects
-      - href: pics.qmd
+      - href: https://mcx8.github.io/bug_n_stuff_website/pics.html
         icon: bug
         text: Bug Content & Whatnot
-        
-  sidebar: 
-    - title: Bug Content & Whatnot
-      style: docked
-      contents: 
-        - pics.qmd
-        - travel.qmd
       
   page-footer: 
     background: $olive
