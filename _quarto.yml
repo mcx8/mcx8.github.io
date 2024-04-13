@@ -7,8 +7,9 @@ website:
 
   title: "Maxine Cruz"
   
+  search: FALSE
+  
   navbar:
-    search: false
     left:
       - href: index.qmd
         text: Home

@@ -17,7 +17,6 @@ about:
     - text: LinkedIn
       icon: linkedin
       href: https://www.linkedin.com/in/maxine-cruz-0953341b9/
-sidebar: false
 ---
 
 ::: column-page
