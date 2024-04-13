@@ -1,0 +1,22 @@
+---
+title: "Species Distribution Modeling of the Desert Pallid bee and Nectar Plants"
+description: "Advised by Dr. Kathleen Prudic, University of Arizona"
+author:
+  - name: Maxine Cruz
+image: cpallida_sdm.png
+title-block-banner: true
+title-block-banner-color: "#FFEBCD"
+draft: false
+---
+
+### Title of manuscript
+
+Description
+
+------------------------------------------------------------------------
+
+### Links
+
+-   ***Manuscript*****:** link
+
+-   ***Github*****:** link
