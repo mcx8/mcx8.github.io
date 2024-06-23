@@ -1,5 +1,5 @@
 ---
-title: "Species Distribution Modeling of the Desert Pallid bee and Nectar Plants"
+title: "Species Distribution Modeling of the Desert pallid bee and Nectar Plants"
 description: "Advised by Dr. Kathleen Prudic, University of Arizona"
 author:
   - name: Maxine Cruz
@@ -19,4 +19,4 @@ Description
 
 -   ***Manuscript*****:** link
 
--   ***Github*****:** link
+-   ***Github*****:** [Big-Biodiversity-Collaborative/DesertBees: Centris pallida / nectar plants distribution predictions (github.com)](https://github.com/Big-Biodiversity-Collaborative/DesertBees)
